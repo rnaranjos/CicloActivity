@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CicloActivity</string>
+    <string name="mensaje_bienvenida">Mensaje_Bienvenida</string>
+</resources>
